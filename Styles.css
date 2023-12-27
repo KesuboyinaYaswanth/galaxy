@@ -3,6 +3,12 @@
     src: url('ClassicStyle.otf'); /* Specify the path and format of your font file */
 }
 
-h1 {
-    font-family: 'classicstyle', sans-serif;
+body {
+    background-image: url('space2.jpg'); /* Specify the path to your image file */
+    background-size: cover; /* This property ensures that the image covers the entire background */
+    background-position: center; /* This property centers the image */
+    /* You can add more background properties as needed, e.g., background-repeat, background-attachment */
+    h1 {
+        font-family: 'classicstyle', sans-serif;
+    }
 }
