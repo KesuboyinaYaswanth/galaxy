@@ -1,1 +1,8 @@
+@font-face {
+    font-family: 'classicstyle'; /* Choose a name for your font */
+    src: url('ClassicStyle.otf'); /* Specify the path and format of your font file */
+}
 
+h1 {
+    font-family: 'classicstyle', sans-serif;
+}
