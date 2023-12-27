@@ -4,12 +4,7 @@
 }
 
 body {
-    background-image: url('space2.jpg'); /* Specify the path to your image file */
-    opacity: 0.5;
-    background-size: cover; /* This property ensures that the image covers the entire background */
-    background-position: center; /* This property centers the image */
-    /* You can add more background properties as needed, e.g., background-repeat, background-attachment */
-      h1 {
+    h1 {
         font-family: 'classicstyle', sans-serif;
-    }
+       }
 }
